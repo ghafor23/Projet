@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP9COMP</string>
+    <string-array name="sports">
+        <item>Course à pied</item>
+        <item>Cyclisme</item>
+        <item>Marche</item>
+    </string-array>
+</resources>
